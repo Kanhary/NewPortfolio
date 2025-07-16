@@ -1,13 +1,13 @@
 import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
 import { useRef } from 'react';
-import Header from './Components/Header';
-import Home from './Components/Home';
-import About from './Components/About';
-import Skill from './Components/Skill';
-import Project from './Components/Project';
-import Experience from './Components/Experience';
-import Contact from './Components/Contact';
-import AuroraBackground from './Components/AuroraBackground';
+import Header from './components/Header';
+import Home from './components/Home';
+import About from './components/About';
+import Skill from './components/Skill';
+import Project from './components/Project';
+import Experience from './components/Experience';
+import Contact from './components/Contact';
+import AuroraBackground from './components/AuroraBackground';
 import './index.css'
 
 function App() {
